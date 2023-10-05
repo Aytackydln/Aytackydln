@@ -28,6 +28,8 @@ Aurora would have 100% usage on 1 thread in most cases. I reduced it to somehow 
 
 [Artemis.Plugins.Games.Witcher3](https://github.com/Aytackydln/Artemis.Plugins.Games.Witcher3)
 
+[Artemis.Plugins.ChromaSdkHacks](https://github.com/Aytackydln/Artemis.Plugins.ChromaSdkHacks)
+
 [CorsairRestarter](https://github.com/Aytackydln/CorsairRestarterForArtemis)
 
 Well, Artemis is Aurora's competitor...
